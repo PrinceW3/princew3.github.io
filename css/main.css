@@ -82,14 +82,15 @@ body {
 	text-align: center;
 	text-shadow: 0px 0px 6px #000;
 	background: none;
-	border-style: solid;
+	/*border-style: solid;
 	border-width: 3px;
-	border-color: white;
+	border-color: white;*/
 	padding: 10px 20px 10px 20px;
 	border-radius: 100px;
 	-webkit-transition: background 0.5s;
 	transition: background 0.7;
 	text-decoration: none;
+	background: rgba(204, 204, 204, 0.5);
 }
 
 #hereswhy:focus {
@@ -97,7 +98,7 @@ body {
 }
 
 #hereswhy:hover {
-	background: rgba(204, 204, 204, 0.5);
+	background: rgba(242, 242, 242, 0.8);
 	cursor: default;
 	-webkit-touch-callout: none; /* iOS Safari */
     -webkit-user-select: none; /* Safari */
@@ -182,7 +183,7 @@ a.downArrow {
 	right: 0;
 	margin: 0 auto;
 	text-align: center;
-	z-index: 5;
+	z-index: 0;
 }
 
 img.downArrow {
@@ -196,6 +197,7 @@ img.downArrow {
 	opacity: 0.7;
 	transition: all 0.2s;
 	-webkit-transition: all 0.2s;
+	z-index: 0;
 }
 
 img.downArrow:hover {
