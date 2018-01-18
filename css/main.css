@@ -183,7 +183,7 @@ a.downArrow {
 	right: 0;
 	margin: 0 auto;
 	text-align: center;
-	z-index: 0;
+	z-index: 1;
 }
 
 img.downArrow {

@@ -39,7 +39,7 @@
 			<div id="socialmedia">
 				<!-- Twitter --><a href="https://www.twitter.com/AmnatParty"><img src="./images/social/twitter.png" class="socialmediaicon"></a>
 				<!-- Facebook --><a href="https://www.facebook.com/FlagPartyUSA"><img src="./images/social/facebook.png" class="socialmediaicon"></a>
-				<!-- Instagram --><a href="https://www.instagram.com/flagpartyusa/"><img src="./images/social/instagram.png" class="socialmediaicon"></a>
+				<!-- Instagram --><a href="https://www.instagram.com/AmnatParty/"><img src="./images/social/instagram.png" class="socialmediaicon"></a>
 				<!-- Gab.ai --><a href="https://gab.ai/ANP"><img src="./images/social/gab.png" class="socialmediaicon"></a>
 				<!-- Google+ --><a href="https://aboutme.google.com/b/101072737346920572449/"><img src="./images/social/google.png" class="socialmediaicon"></a>
 				<!-- Youtube --><a href="https://www.youtube.com/channel/UCyI-njp2tt589Hgg_MDG1Lw"><img src="./images/social/youtube.png" class="socialmediaicon"></a>
@@ -57,22 +57,22 @@
 		</div>
 		<div id="theflag">
 			<div class="textPieces">
-				<span class="heading">The flag is a symbol of LIBERTY</span><br><br>
-				<p class="para">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><br><br>
+				<span class="heading">Our nation is part of our identity.</span><br><br>
+				<p class="para">When our forefathers laid the foundations for this nation, they did so with a vision.  They dreamt of a society unified under a common culture and free from foreign influence.  Their dream was a reality for nearly 200 years, but all dreams come to an end. What is left now, is all that remains for us to salvage and build again what was meant to be.</p><br><br>
 				<a href="javascript:void(0)" id="downArrow1" class="downArrow"><img class="downArrow" src="./images/downArrow.png"></a>
 			</div>
 		</div>
 		<div id="theflag2">
 			<div class="textPieces">
-				<span class="heading">The flag is a symbol of UNITY</span><br><br>
-				<p class="para">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><br><br>
+				<span class="heading">America is our home.</span><br><br>
+				<p class="para">Your family may have been here for centuries or maybe only decades. In spite of this, we all have a common goal: prosperity. This once noble goal has been perverted by the left. Where once a man may have wished for a wife and children to love him, there now exists a man who wishes to marry a man and not have children. Is living in the moment really worth it when those who come after us will not have a place to live at all?</p><br><br>
 				<a href="javascript:void(0)" id="downArrow2" class="downArrow"><img class="downArrow" src="./images/downArrow.png"></a>
 			</div>
 		</div>
 		<div id="theflag3">
 			<div class="textPieces">
-				<span class="heading">The flag is a symbol of TENACITY</span><br><br>
-				<p class="para">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><br><br>
+				<span class="heading">Our nation is distinct.</span><br><br>
+				<p class="para">White American, while once being a description of a European immigrant to America, now describes a distinct cultural and ethnic identity. Where we once had Irish, English, Scottish, German, French or Spanish, we now have American. The left hates us for this; they seek to destroy our distinct identity just as the Union did to the Confederacy.  The northerners hated the Southerners because they committed the terrible crime of having a truly defined culture.</p><br><br>
 				<a href="javascript:void(0)" id="upArrow" class="downArrow"><img class="downArrow" src="./images/upArrow.png"></a><span id="btt">Back to top</span>
 			</div>
 		</div>
